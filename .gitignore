@@ -1,0 +1,22 @@
+# Ignore virtual environment
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# IDE / editor metadata
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
